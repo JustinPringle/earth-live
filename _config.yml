@@ -17,10 +17,11 @@ author:
   email:
   twitter: efml_ukzn
 social:
+  twitter: https://twitter.com/efml_ukzn
   name: Earth Live
   links:
     - https://github.com/CloudCannon/frisco-jekyll-template
-
+theme: hanuman
 # -----
 # Build
 

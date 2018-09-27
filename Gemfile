@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '3.3.1'
-
+gem "hanuman"
 group :jekyll_plugins do
 	gem 'jekyll-feed', '0.8.0'
 	gem 'jekyll-seo-tag', '2.1.0'
